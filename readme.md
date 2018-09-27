@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fparanoia1906%2Fwp-pbf.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fparanoia1906%2Fwp-pbf?ref=badge_shield)
+
 This is a repository hosting the Print Basic Facts plugin for WordPress. 
 Print Basic Facts is a diagnostics tool which saves time for website owners.
 
@@ -140,3 +142,7 @@ I have plans to develop features to create replicas of files and database settin
 
 * This update improves user experience. Corrected a few spelling mistakes and added additional wordbreak css to help with smaller display text overlap.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fparanoia1906%2Fwp-pbf.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fparanoia1906%2Fwp-pbf?ref=badge_large)
